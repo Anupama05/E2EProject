@@ -1,0 +1,34 @@
+13:50:48.013 [main] INFO  resources.base - Driver is initialized
+13:51:17.168 [main] INFO  resources.base - Navigated to home page
+13:51:20.454 [main] INFO  resources.base - Successfully verified Text message
+14:12:00.094 [main] INFO  resources.base - Resticted User
+14:12:22.254 [main] INFO  resources.base - Non resticted User
+14:12:25.963 [main] INFO  resources.base - Driver is initialized
+14:12:45.450 [main] INFO  resources.base - Navigated to home page
+14:12:48.601 [main] INFO  resources.base - Successfully verified Text message
+16:20:55.828 [main] INFO  resources.base - Resticted User
+16:21:21.302 [main] INFO  resources.base - Non resticted User
+16:21:25.357 [main] INFO  resources.base - Driver is initialized
+16:21:45.415 [main] INFO  resources.base - Navigated to home page
+00:46:41.408 [main] INFO  resources.base - Restricted User
+00:46:59.475 [main] INFO  resources.base - Non restricted User
+00:47:03.056 [main] INFO  resources.base - Driver is initialized
+00:47:10.491 [main] INFO  resources.base - Navigated to home page
+10:42:22.112 [main] INFO  resources.base - Non restricted User
+10:42:25.875 [main] INFO  resources.base - Driver is initialized
+10:42:47.015 [main] INFO  resources.base - Navigated to home page
+12:31:34.410 [main] INFO  resources.base - Restricted User
+12:32:05.713 [main] INFO  resources.base - Non restricted User
+12:32:09.579 [main] INFO  resources.base - Driver is initialized
+12:32:30.589 [main] INFO  resources.base - Navigated to home page
+14:01:41.241 [main] INFO  resources.base - Restricted User
+14:02:07.610 [main] INFO  resources.base - Non restricted User
+14:02:15.942 [main] INFO  resources.base - Driver is initialized
+14:02:36.622 [main] INFO  resources.base - Navigated to home page
+15:50:53.031 [main] INFO  resources.base - Non restricted User
+15:50:56.681 [main] INFO  resources.base - Driver is initialized
+15:51:13.007 [main] INFO  resources.base - Navigated to home page
+11:47:19.900 [main] INFO  resources.base - Restricted User
+11:47:45.458 [main] INFO  resources.base - Non restricted User
+11:47:49.898 [main] INFO  resources.base - Driver is initialized
+11:48:05.046 [main] INFO  resources.base - Navigated to home page
